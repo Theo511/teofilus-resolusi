@@ -1,3 +1,5 @@
 WPU RESOLUSI
 ssssssssss
 Kerja di Amerika
+  -Web Development
+  -Laravel
